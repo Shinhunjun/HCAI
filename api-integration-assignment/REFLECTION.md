@@ -180,9 +180,3 @@ The skills from this assignment are now being applied to build Reflecta, where I
 
 This API integration assignment provided the essential foundation for building a real-world, human-centered AI application. The journey from "Words of Wisdom" to "Reflecta" demonstrates how fundamental API skills scale to complex, meaningful applications that genuinely serve human needs.
 
----
-
-**Date**: October 2024
-**Course**: Human-Centered AI
-**Assignment**: API Integration - Hello World Application
-**Technology**: OpenAI GPT-3.5-turbo API

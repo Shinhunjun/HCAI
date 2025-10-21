@@ -134,7 +134,7 @@ Advanced topics in user-centered design for AI systems.
 ---
 
 ### API Integration Assignment: Words of Wisdom
-**Directory**: [`react_assignment/`](react_assignment/)
+**Directory**: [`api-integration-assignment/`](api-integration-assignment/)
 
 A web application demonstrating generative AI API integration with a focus on user experience.
 
@@ -154,7 +154,7 @@ A web application demonstrating generative AI API integration with a focus on us
 - Complete documentation (README.md)
 - Learning reflection (REFLECTION.md)
 
-**Key Learning Outcomes** (from [Reflection](react_assignment/REFLECTION.md)):
+**Key Learning Outcomes** (from [Reflection](api-integration-assignment/REFLECTION.md)):
 
 *API Integration & Technical Skills:*
 - Mastered RESTful API communication with generative AI services
@@ -182,7 +182,7 @@ The skills gained from this project directly informed the development of **Refle
 - User-centered AI interface design
 - Balancing AI capabilities with user privacy and control
 
-[View Full Reflection →](react_assignment/REFLECTION.md) | [View Project →](react_assignment/)
+[View Full Reflection →](api-integration-assignment/REFLECTION.md) | [View Project →](api-integration-assignment/)
 
 ---
 
@@ -302,12 +302,12 @@ cd assignment1-foundations-intro/
 cd assignment2-ai-lifecycles/
 
 # View API Integration Project
-cd react_assignment/
+cd api-integration-assignment/
 ```
 
 ### Running the Web Application
 ```bash
-cd react_assignment/
+cd api-integration-assignment/
 python3 -m http.server 8000
 # Open http://localhost:8000 in your browser
 ```
