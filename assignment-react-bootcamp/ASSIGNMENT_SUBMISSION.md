@@ -1,8 +1,8 @@
 # React Bootcamp Assignment Submission
 
-**Student**: Jun Shin
+**Student**: HunJun Shin
 **Course**: Human-Centered Artificial Intelligence (HCAI)
-**Date**: October 2024
+**Date**: October 2025
 **Repository**: [React-Bootcamp-Toy-Components](https://github.com/CurtisChris7/React-Bootcamp-Toy-Components)
 
 ---
