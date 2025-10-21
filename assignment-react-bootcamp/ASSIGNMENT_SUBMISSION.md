@@ -91,15 +91,6 @@ Display Filtered Results (ExpenseList)
 Delete Operations → Update State
 ```
 
-### Technology Stack
-
-- **React 18**: Component-based UI framework
-- **TypeScript**: Type safety and better developer experience
-- **Vite**: Fast build tool and development server
-- **React Hook Form**: Efficient form state management
-- **Zod**: Schema validation library
-- **React Icons**: Icon library for UI elements
-- **Bootstrap CSS**: Styling framework
 
 ### Architecture Patterns Demonstrated
 
@@ -361,5 +352,5 @@ Both applications run on localhost with Vite's development server, providing hot
 
 ---
 
-**Submission Date**: October 21, 2024
+**Submission Date**: October 21, 2025
 **GitHub Repository**: [HCAI Assignments](https://github.com/Shinhunjun/HCAI)
