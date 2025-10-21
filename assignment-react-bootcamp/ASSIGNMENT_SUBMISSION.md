@@ -278,23 +278,32 @@ This bootcamp provides the essential React building blocks that, when combined w
 
 ## 3. Screenshots
 
-### Screenshot 1: Repository Structure
-*[INSERT SCREENSHOT: File tree showing toycomponents and expensetracker folders]*
+All screenshots are located in: `/Users/hunjunsin/Desktop/Jun/hcai/hw/assignment-react-bootcamp/screenshot/`
 
-### Screenshot 2: Main App.tsx
-*[INSERT SCREENSHOT: toycomponents/src/App.tsx showing component imports and state management]*
+### Screenshot 1: Toy Components Application (11:03:25 AM)
+**File**: `Screenshot 2025-10-21 at 11.03.25 AM.png`
 
-### Screenshot 3: Button Component
-*[INSERT SCREENSHOT: Button.tsx showing TypeScript interface and component implementation]*
+Shows the Toy Components application running with all interactive elements including buttons, alerts, list groups, and forms.
 
-### Screenshot 4: RHForm Component
-*[INSERT SCREENSHOT: RHForm.tsx showing React Hook Form with Zod validation]*
+### Screenshot 2: Toy Components Detail View (11:04:08 AM)
+**File**: `Screenshot 2025-10-21 at 11.04.08 AM.png`
 
-### Screenshot 5: ExpenseTracker App
-*[INSERT SCREENSHOT: expensetracker/src/App.tsx showing expense management logic]*
+Detailed view of component interactions including alert display and form validation.
 
-### Screenshot 6: Running Application
-*[INSERT SCREENSHOT: Browser showing the toy components in action]*
+### Screenshot 3: Code and UI Side-by-Side (11:04:26 AM)
+**File**: `Screenshot 2025-10-21 at 11.04.26 AM.png`
+
+Split view showing both the source code (App.tsx, Button.tsx, RHForm.tsx) and the running application demonstrating the connection between code and UI.
+
+### Screenshot 4: Expense Tracker Application (11:07:05 AM)
+**File**: `Screenshot 2025-10-21 at 11.07.05 AM.png`
+
+Expense Tracker application showing the form, filter, and list components with CRUD functionality.
+
+### Screenshot 5: Expense Tracker with Data (11:07:27 AM)
+**File**: `Screenshot 2025-10-21 at 11.07.27 AM.png`
+
+Expense Tracker displaying multiple expenses, category filtering, total calculation, and demonstrating the complete data flow from form submission to list display.
 
 ---
 
