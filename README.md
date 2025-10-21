@@ -154,7 +154,35 @@ A web application demonstrating generative AI API integration with a focus on us
 - Complete documentation (README.md)
 - Learning reflection (REFLECTION.md)
 
-[View Project →](react_assignment/)
+**Key Learning Outcomes** (from [Reflection](react_assignment/REFLECTION.md)):
+
+*API Integration & Technical Skills:*
+- Mastered RESTful API communication with generative AI services
+- Implemented async/await patterns for API calls
+- Developed robust error handling and user feedback mechanisms
+- Learned prompt engineering techniques for optimal AI responses
+- Understood the role of API parameters (temperature, max_tokens, system messages)
+
+*Design & User Experience:*
+- Created intuitive, single-button interface focused on core functionality
+- Implemented loading states and animations for better UX
+- Balanced user convenience with security considerations (localStorage for API keys)
+- Designed mobile-responsive gradient interface
+
+*Challenges Overcome:*
+1. **CORS & Security**: Navigated browser security while implementing frontend-only API calls
+2. **API Key Management**: Balanced convenience with security using localStorage
+3. **Error Handling**: Created user-friendly error messages for various failure scenarios
+4. **Async UX**: Managed user expectations during 1-3 second API response times
+
+*Future Applications:*
+The skills gained from this project directly informed the development of **Reflecta** (Final Project), where AI integration plays a central role in creating personalized, reflective journaling experiences. This assignment provided the foundation for:
+- Multi-turn AI conversations in journaling contexts
+- Secure API integration in production applications
+- User-centered AI interface design
+- Balancing AI capabilities with user privacy and control
+
+[View Full Reflection →](react_assignment/REFLECTION.md) | [View Project →](react_assignment/)
 
 ---
 
@@ -211,6 +239,34 @@ By completing these assignments, the following competencies have been developed:
 ## 📝 Academic Integrity
 
 All work in this repository represents original effort completed for the HCAI course at Northeastern University. External resources, APIs, and references are properly cited within individual assignments.
+
+## 🚀 Final Project: Reflecta
+
+Building on the concepts and skills developed throughout this course, the final project **Reflecta** represents the culmination of HCAI learning applied to a real-world application.
+
+**Project**: Reflecta - AI-Powered Reflective Journaling Platform
+**Location**: `../FinalProject/reflecta/`
+
+**Project Overview**:
+Reflecta is a comprehensive journaling application that leverages AI to help users reflect deeply on their experiences, emotions, and personal growth. The project integrates all key HCAI principles learned throughout the course.
+
+**How Course Assignments Informed Reflecta**:
+- **Assignment 1-3**: Human-centered design principles guide the entire user experience
+- **Assignment 4**: User study methodologies inform feature development and validation
+- **Assignment 5**: Inclusive design ensures accessibility across diverse user groups
+- **Assignment 6**: User-centered AI design shapes AI interaction patterns
+- **API Integration**: Direct application of API skills for AI-powered journaling prompts and insights
+
+**Key Features** (Applying HCAI Principles):
+- AI-assisted reflection prompts based on user context
+- Privacy-first design with local data storage options
+- Culturally-aware and inclusive interface
+- Iterative feedback loops for personalized experiences
+- Transparent AI interactions with user control
+
+This final project demonstrates the practical application of human-centered AI design in creating technology that genuinely serves human needs while respecting user autonomy and privacy.
+
+---
 
 ## 🔗 Additional Resources
 
