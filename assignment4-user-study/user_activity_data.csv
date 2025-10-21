@@ -1,0 +1,36 @@
+timestamp,userID,sessionID,action,details,session_duration_minutes
+2025-08-21 09:05:12,user_101,sess_abc,login,success,45
+2025-08-21 09:06:20,user_101,sess_abc,view_dashboard,project_alpha,45
+2025-08-21 09:07:31,user_101,sess_abc,create_task,"{""task_name"": ""Draft Q3 Report""}",45
+2025-08-21 09:07:55,user_101,sess_abc,create_subtask,"{""parent_task"": ""Draft Q3 Report"", ""subtask_name"": ""Gather sales data""}",45
+2025-08-21 09:08:21,user_101,sess_abc,create_subtask,"{""parent_task"": ""Draft Q3 Report"", ""subtask_name"": ""Outline report structure""}",45
+2025-08-21 09:15:45,user_101,sess_abc,assign_user,"{""task_name"": ""Gather sales data"", ""assigned_to"": ""user_102""}",45
+2025-08-21 09:25:11,user_101,sess_abc,set_due_date,"{""task_name"": ""Draft Q3 Report"", ""date"": ""2025-09-15""}",45
+2025-08-21 09:40:30,user_101,sess_abc,change_view,gantt_chart_view,45
+2025-08-21 09:50:12,user_101,sess_abc,logout,success,45
+2025-08-21 10:10:02,user_105,sess_def,login,success,15
+2025-08-21 10:11:15,user_105,sess_def,view_dashboard,project_beta,15
+2025-08-21 10:12:00,user_105,sess_def,create_task,"{""task_name"": ""Develop new login UI""}",15
+2025-08-21 10:13:45,user_105,sess_def,add_comment,"{""task_name"": ""Develop new login UI"", ""comment_length"": 120}",15
+2025-08-21 10:18:00,user_105,sess_def,upload_attachment,"{""task_name"": ""Develop new login UI"", ""file_type"": "".png""}",15
+2025-08-21 10:25:02,user_105,sess_def,logout,success,15
+2025-08-21 11:02:19,user_101,sess_ghi,login,success,22
+2025-08-21 11:03:00,user_101,sess_ghi,create_task,"{""task_name"": ""Finalize marketing assets""}",22
+2025-08-21 11:03:30,user_101,sess_ghi,create_subtask,"{""parent_task"": ""Finalize marketing assets"", ""subtask_name"": ""Approve banner ads""}",22
+2025-08-21 11:04:01,user_101,sess_ghi,create_subtask,"{""parent_task"": ""Finalize marketing assets"", ""subtask_name"": ""Write social media copy""}",22
+2025-08-21 11:04:35,user_101,sess_ghi,create_subtask,"{""parent_task"": ""Finalize marketing assets"", ""subtask_name"": ""Get legal review""}",22
+2025-08-21 11:24:19,user_101,sess_ghi,logout,success,22
+2025-08-21 11:30:50,user_108,sess_jkl,login,success,5
+2025-08-21 11:31:20,user_108,sess_jkl,view_dashboard,project_gamma,5
+2025-08-21 11:32:00,user_108,sess_jkl,change_view,kanban_view,5
+2025-08-21 11:33:00,user_108,sess_jkl,change_view,list_view,5
+2025-08-21 11:34:00,user_108,sess_jkl,change_view,kanban_view,5
+2025-08-21 11:35:50,user_108,sess_jkl,logout,success,5
+2025-08-21 12:01:00,user_102,sess_mno,login,success,65
+2025-08-21 12:02:15,user_102,sess_mno,view_dashboard,project_alpha,65
+2025-08-21 12:03:00,user_102,sess_mno,complete_task,"{""task_name"": ""Gather sales data""}",65
+2025-08-21 12:05:00,user_102,sess_mno,create_task,"{""task_name"": ""Analyze competitor websites""}",65
+2025-08-21 12:05:40,user_102,sess_mno,create_subtask,"{""parent_task"": ""Analyze competitor websites"", ""subtask_name"": ""Review competitor A""}",65
+2025-08-21 12:06:10,user_102,sess_mno,create_subtask,"{""parent_task"": ""Analyze competitor websites"", ""subtask_name"": ""Review competitor B""}",65
+2025-08-21 12:45:00,user_102,sess_mno,change_view,gantt_chart_view,65
+2025-08-21 13:06:00,user_102,sess_mno,logout,success,65

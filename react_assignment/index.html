@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Words of Wisdom For Today</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Words of Wisdom For Today</h1>
+            <p class="subtitle">Let AI inspire your day with thoughtful wisdom</p>
+        </header>
+
+        <main>
+            <div class="wisdom-card" id="wisdomCard">
+                <div class="wisdom-icon">💭</div>
+                <p class="wisdom-text" id="wisdomText">
+                    Click the button below to receive your daily words of wisdom
+                </p>
+                <div class="timestamp" id="timestamp"></div>
+            </div>
+
+            <div class="controls">
+                <button id="getWisdomBtn" class="wisdom-button">
+                    Get Today's Words of Wisdom
+                </button>
+                <div class="loading" id="loading">
+                    <div class="spinner"></div>
+                    <p>Generating wisdom...</p>
+                </div>
+            </div>
+
+            <div class="api-key-section">
+                <label for="apiKeyInput">OpenAI API Key:</label>
+                <input
+                    type="password"
+                    id="apiKeyInput"
+                    placeholder="Enter your OpenAI API key"
+                    class="api-key-input"
+                >
+                <small class="info-text">
+                    Your API key is stored locally in your browser and never sent anywhere except directly to OpenAI.
+                    <a href="https://platform.openai.com/api-keys" target="_blank">Get your API key here</a>
+                </small>
+            </div>
+
+            <div class="error-message" id="errorMessage"></div>
+        </main>
+
+        <footer>
+            <p>Powered by OpenAI's GPT API</p>
+            <p class="small-text">Created for HCAI API Integration Assignment</p>
+        </footer>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
